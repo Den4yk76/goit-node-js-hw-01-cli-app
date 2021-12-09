@@ -20,5 +20,9 @@
   "homepage": "https://github.com/Den4yk76/goit-node-js-hw-01-cli-app",
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "yargs": "^17.3.0"
   }
 }
