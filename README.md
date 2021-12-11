@@ -1,1 +1,1 @@
-https://ibb.co/VMmNyS3 - console screenshot
+https://ibb.co/VMmNyS3 - terminal screenshot
